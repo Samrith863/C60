@@ -1,0 +1,26 @@
+body{
+    text-align:center;
+}
+h1{
+    font-size:40px;
+}
+#App{
+    width:100%;
+    background-color:blue;
+}
+#Games{
+    width:100%;
+    background-color:blue;
+}
+img{
+    transition:transform .2s;
+}
+img:hover{
+    transform: scale(.9);
+}
+.line{
+    height:6px;
+        width:70px;
+    background-color:black;
+    margin:8px auto;
+}
